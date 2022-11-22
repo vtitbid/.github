@@ -1,5 +1,5 @@
 ### Исследовательское сообщество ВТИТБиД ([VTITBiD.TECH](https://vtitbid.tech))
 
-![](./banner.png)
+![](./banner-only-logo-no-bg.png)
 
 [Узнать больше](https://vtitbid.tech)
