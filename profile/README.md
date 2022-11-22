@@ -1,4 +1,4 @@
-### Исследовательское сообщество VTITBiD.TECH.
+### Исследовательское сообщество VTITBiD.TECH
 
 ![](./banner-only-logo-no-bg.png)
 
