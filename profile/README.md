@@ -1,4 +1,4 @@
-### Исследовательское сообщество ВТИТБиД ([VTITBiD.TECH](https://vtitbid.tech))
+### Исследовательское сообщество VTITBiD.TECH.
 
 ![](./banner-only-logo-no-bg.png)
 
